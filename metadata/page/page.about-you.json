@@ -1,0 +1,27 @@
+{
+  "_id": "page.about-you",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.about-you--radios.auto_name__4",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.about-you--radios.auto_name__4--radio.auto_value__5",
+          "_type": "radio",
+          "label": "Claimant",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.about-you--radios.auto_name__4--radio.auto_value__6",
+          "_type": "radio",
+          "label": "Legal representative",
+          "value": "auto_value__6"
+        }
+      ],
+      "legend": "About you",
+      "name": "auto_name__4"
+    }
+  ],
+  "url": "about-you"
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "page.confirmation-page",
+  "_type": "page.confirmation",
+  "components": [
+    {
+      "_id": "page.confirmation-page--details",
+      "_type": "details",
+      "html": "An adviser from a HM Courts and Tribunals service will respond to your enquiry by email within 10 working days",
+      "summary": "What happens next"
+    }
+  ],
+  "heading": "Thank you for your enquiry",
+  "lede": "We've sent it to HM Courts and Tribunals Service",
+  "url": "confirmation-page"
+}

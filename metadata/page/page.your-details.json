@@ -1,0 +1,44 @@
+{
+  "_id": "page.your-details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.your-details--text.auto_name__5",
+      "_type": "text",
+      "label": "First name",
+      "name": "auto_name__5"
+    },
+    {
+      "_id": "page.your-details--text.auto_name__6",
+      "_type": "text",
+      "label": "Last name",
+      "name": "auto_name__6"
+    },
+    {
+      "_id": "page.your-details--date.auto_name__7",
+      "_type": "date",
+      "hint": "[% hint.date %]. We'll only use this to match your query to information we hold",
+      "legend": "Your date of birth",
+      "name": "auto_name__7"
+    },
+    {
+      "_id": "page.your-details--email.auto_name__8",
+      "_type": "email",
+      "hint": "We'll only use this to contact you about your query",
+      "label": "Your email",
+      "name": "auto_name__8"
+    },
+    {
+      "_id": "page.your-details--number.auto_name__9",
+      "_type": "number",
+      "hint": "We may be able to resolve your query more quickly if we can call you",
+      "label": "Phone number (optional)",
+      "name": "auto_name__9",
+      "validation": {
+        "required": false
+      }
+    }
+  ],
+  "heading": "Your details",
+  "url": "your-details"
+}
