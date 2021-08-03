@@ -1,11 +1,22 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "**This is the main content section of your start page**\r\n\r\n[Edit this page](/edit) with content for your own service.\r\n\r\n## Adding more content\r\n\r\nYou can add multiple headings, links and paragraphs - all in this one content section.\r\n\r\nUse [markdown](https://www.gov.uk/guidance/how-to-publish-on-gov-uk/markdown) to format headings, bullet lists and links.",
-  "heading": "This is your start page heading",
-  "lede": "This is your start page first paragraph. You can only have one paragraph here.",
+  "body": "Use the  [Find a court or tribunal](https://www.gov.uk/find-court-tribunal) service to find out how to contact HMCTS about any other court and tribunal service.\r\n\r\n## If your query is urgent\r\n\r\nWe aim to respond to queries we receive through this service within 10 working days.  if your query is urgent, call:\r\n\r\n* 0300 123 1072 for [Probate enquiries](https://) \r\n* 0300 303 0642 for [divorce enquiries](https://) \r\n* 0300 123 1372 for [Court claims for money](https://) \r\n\r\nOur call centres are open Monday to Friday, 8am to 4pm.",
+  "components": [
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.start--details",
+      "_type": "details",
+      "summary": "Find out about call charges"
+    }
+  ],
+  "heading": "Contact HMCTS",
+  "lede": "Use this form to contact HMCTS about a probate or divorce application, or about a court claim for money",
   "steps": [
     "page.what-do-you-need-help-with",
+    "page.about-your-query--2",
     "page.about-your-query",
     "page.about-you",
     "page.your-details",

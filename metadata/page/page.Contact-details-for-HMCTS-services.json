@@ -2,5 +2,10 @@
   "_id": "page.Contact-details-for-HMCTS-services",
   "_type": "page.content",
   "heading": "Contact details for HMCTS service",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__2"
+  },
   "url": "Contact-details-for-HMCTS-services"
 }

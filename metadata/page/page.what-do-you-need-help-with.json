@@ -9,13 +9,14 @@
         {
           "_id": "page.what-do-you-need-help-with--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
-          "label": "New Application",
+          "label": "Divorce",
           "value": "auto_value__1"
         },
         {
           "_id": "page.what-do-you-need-help-with--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
-          "label": "Existing application",
+          "hint": "For example, applying for money claims or for a grant of probate",
+          "label": "Another court or tribunal service",
           "value": "auto_value__2"
         }
       ],
